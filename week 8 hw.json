@@ -30,13 +30,10 @@
         "size": {
           "field": "amount",
           "type": "quantitative",
-          "title": "Value of Exported Merchandise($ Millions)",
+          "title": "Value of Exports ($ Millions)",
           "scale": {"domain": [0, 14000],
           "range": [50, 2000]
-          },
-        "legend": {
-          "titleFontSize": 6
-        }
+          }
         }
       }
     }
