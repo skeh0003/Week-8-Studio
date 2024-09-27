@@ -30,7 +30,7 @@
         "size": {
           "field": "amount",
           "type": "quantitative",
-          "title": "Value of Exported Merchandise ($ Millions)",
+          "title": "Value of Exported Merchandise\n($ Millions)",
           "scale": {"domain": [0, 14000],
           "range": [50, 2000]
           }
