@@ -35,7 +35,7 @@
           "range": [50, 2000]
           },
         "legend": {
-          "titleFontSize": 10
+          "titleFontSize": 6
         }
         }
       }
